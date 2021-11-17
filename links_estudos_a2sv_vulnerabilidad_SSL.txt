@@ -1,0 +1,17 @@
+
+links: https://youtu.be/nSV8WK2C91U?list=PLeflaeDUIPUV5vmDGccqyRiv73z00XHIK
+
+
+COMANDOS::: 
+
+
+git clone https://github.com/hahwul/a2sv
+cd a2sv
+chmod +x *
+sudo apt-get  install python2 
+sudo apt install python-pip
+sudo pip2 install -r requirements.txt
+sudo python2 a2sv.py -h
+sudo python2 a2sv.py -t www.google.com
+https://www.acunetix.com/vulnerabilit...
+

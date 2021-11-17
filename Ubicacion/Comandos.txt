@@ -1,0 +1,4 @@
+sudo apt-get update
+sudo apt-get install filezilla
+
+https://www.cual-es-mi-ip.net/geolocalizar-ip-mapa

@@ -1,0 +1,15 @@
+ 
+
+ links:  https://youtu.be/fel2ZWDYqMQ?list=PLeflaeDUIPUV5vmDGccqyRiv73z00XHIK
+ 
+ 
+ Comados:::
+ 
+ 
+git clone https://github.com/DeepSociety/koroni
+cd koroni
+chmod +x koroni
+
+bash koroni
+
+https://www.coordenadas-gps.com/

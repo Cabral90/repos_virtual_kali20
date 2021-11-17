@@ -1,0 +1,6 @@
+pather 
+
+Busca exprecion regular dentro de una cadena como resultado de un comando en shell, bash
+
+video: https://www.youtube.com/watch?v=lUr9C05NfPM
+https://pythex.org/ 
